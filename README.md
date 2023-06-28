@@ -1,2 +1,2 @@
 # ciscoFMC
-Escripts to automate FMC
+Scripts to automate FMC
